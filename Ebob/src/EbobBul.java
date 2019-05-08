@@ -10,7 +10,7 @@
  */
 public class EbobBul {
     public static void main(String[] args) {
-        System.out.println(FindEbob(120, 8));
+        System.out.println(FindEbob(6580, 196));
         
         
         
